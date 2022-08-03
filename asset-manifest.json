@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Vincenttnecniv/crypto-app.git/static/css/main.c08930fa.css",
+    "main.js": "/Vincenttnecniv/crypto-app.git/static/js/main.ee6f1914.js",
+    "static/media/home.jpeg": "/Vincenttnecniv/crypto-app.git/static/media/home.9d2e2f63350394020524.jpeg",
+    "index.html": "/Vincenttnecniv/crypto-app.git/index.html",
+    "main.c08930fa.css.map": "/Vincenttnecniv/crypto-app.git/static/css/main.c08930fa.css.map",
+    "main.ee6f1914.js.map": "/Vincenttnecniv/crypto-app.git/static/js/main.ee6f1914.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c08930fa.css",
+    "static/js/main.ee6f1914.js"
+  ]
+}
