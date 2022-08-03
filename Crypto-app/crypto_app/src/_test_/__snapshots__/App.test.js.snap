@@ -1,0 +1,125 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing client or App component App matches DOM Snapshot 1`] = `
+<div>
+  <div
+    className="App"
+  >
+    <div>
+      <div
+        className="navbar"
+      >
+        <ul>
+          <li>
+            <a
+              className="active"
+              href="/"
+              onClick={[Function]}
+            >
+              HOME
+            </a>
+          </li>
+          <li>
+            <a
+              className="active"
+              href="/register"
+              onClick={[Function]}
+            >
+              REGISTER
+            </a>
+          </li>
+          <li>
+            <a
+              href="/sign_in"
+              onClick={[Function]}
+            >
+              SIGN IN
+            </a>
+          </li>
+          <li>
+            <a
+              className="active"
+              href="/crypto_currency"
+              onClick={[Function]}
+            >
+              CRYPTO CURRENCY
+            </a>
+          </li>
+          <li>
+            <a
+              className="active"
+              href="/users"
+              onClick={[Function]}
+            >
+              Users
+            </a>
+          </li>
+        </ul>
+      </div>
+      <br />
+      <br />
+      <div>
+        <br />
+        <h1
+          className="home"
+        >
+          How to invest :
+        </h1>
+        <br />
+        <br />
+        <br />
+        <ol>
+          <li
+            className="home1"
+          >
+            Decide how much to invest.
+          </li>
+          <li
+            className="home1"
+          >
+            Set a goal for your money.
+          </li>
+          <li
+            className="home1"
+          >
+            Decide on how much help your going to need.
+          </li>
+          <li
+            className="home1"
+          >
+            Pick & Open an investment account.
+          </li>
+          <li
+            className="home1"
+          >
+            Choose investments that match your tolerance for risk.
+          </li>
+          <li
+            className="home1"
+          >
+            Invest in stocks and stock funds.
+          </li>
+        </ol>
+      </div>
+      <br />
+      <footer>
+        <img
+          alt="UnloadedImage"
+          src="home.jpeg"
+          style={
+            Object {
+              "height": "250px",
+              "marginBottom": "-130px",
+              "marginLeft": "-44px",
+              "marginTop": "50px",
+              "width": "106%",
+            }
+          }
+        />
+      </footer>
+    </div>
+     
+    <br />
+  </div>
+</div>
+`;
