@@ -1,11 +1,14 @@
 {
   "name": "server",
+  "homepage": "https://github.com/Vincenttnecniv/crypto-app.git",
   "version": "1.0.0",
   "description": "",
   "main": "Server.js",
   "scripts": {
     "test": "jest",
-    "dev": "nodemon server.js"
+    "dev": "nodemon server.js",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "keywords": [],
   "author": "",
